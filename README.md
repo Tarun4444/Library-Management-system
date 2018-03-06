@@ -44,4 +44,4 @@ The methods in LibraryManagement.java
   above methods.
 
 # System is not yet fully working.
-  Any suggezstions will be good
+  Any suggestions will be good
